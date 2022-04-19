@@ -62,7 +62,6 @@ var Node = function(value) {
 
   node.value = value;
   node.next = null;
-  console.log('node', node);
   return node;
 };
 

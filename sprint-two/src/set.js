@@ -30,3 +30,6 @@ setPrototype.remove = function(item) {
   Linear/ O(n); check every item to confirm lack of existance;
  */
 
+// Tests
+// check for order in the set
+//
